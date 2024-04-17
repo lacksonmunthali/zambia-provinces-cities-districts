@@ -1,0 +1,244 @@
+{
+    "provinces": [
+        {
+            "name": "Central",
+            "cities": [
+                {
+                    "name": "Kabwe",
+                    "districts": [
+                        "Chililalila",
+                        "Cowen Ntuli",
+                        "Kabwe Central",
+                        "Kabwe North",
+                        "Kabwe South"
+                    ]
+                },
+                {
+                    "name": "Kapiri Mposhi",
+                    "districts": [
+                        "Bwacha",
+                        "Kabushi",
+                        "Mukonchi",
+                        "Ngabwe",
+                        "Ngabwe East"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Copperbelt",
+            "cities": [
+                {
+                    "name": "Ndola",
+                    "districts": [
+                        "Buntungwa",
+                        "Chifubu",
+                        "Chilanga",
+                        "Ndola",
+                        "Ndola East"
+                    ]
+                },
+                {
+                    "name": "Kitwe",
+                    "districts": [
+                        "Nkana",
+                        "Wusakile",
+                        "Kitwe",
+                        "Kitwe North",
+                        "Kitwe South"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Eastern",
+            "cities": [
+                {
+                    "name": "Chipata",
+                    "districts": [
+                        "Kapata",
+                        "Mchini",
+                        "Mchini",
+                        "Chipata",
+                        "Chipata East"
+                    ]
+                },
+                {
+                    "name": "Petauke",
+                    "districts": [
+                        "Kalindawalo",
+                        "Kasenengwa",
+                        "Petauke",
+                        "Petauke North",
+                        "Petauke South"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Luapula",
+            "cities": [
+                {
+                    "name": "Mansa",
+                    "districts": [
+                        "Chisunka",
+                        "Chitina",
+                        "Mansa",
+                        "Mansa East",
+                        "Mansa West"
+                    ]
+                },
+                {
+                    "name": "Samfya",
+                    "districts": [
+                        "Bwalya Mponda",
+                        "Kabinga",
+                        "Samfya",
+                        "Samfya East",
+                        "Samfya West"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Lusaka",
+            "cities": [
+                {
+                    "name": "Lusaka",
+                    "districts": [
+                        "Chawama",
+                        "Kabwata",
+                        "Kanyama",
+                        "Lusaka",
+                        "Lusaka East"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Muchinga",
+            "cities": [
+                {
+                    "name": "Chinsali",
+                    "districts": [
+                        "Chibote",
+                        "Kawazhi",
+                        "Chinsali",
+                        "Chinsali North",
+                        "Chinsali South"
+                    ]
+                },
+                {
+                    "name": "Isoka",
+                    "districts": [
+                        "Mukungule",
+                        "Nakonde",
+                        "Isoka",
+                        "Isoka North",
+                        "Isoka South"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "North-Western",
+            "cities": [
+                {
+                    "name": "Solwezi",
+                    "districts": [
+                        "Chilengwa",
+                        "Kapijimpanga",
+                        "Solwezi",
+                        "Solwezi East",
+                        "Solwezi West"
+                    ]
+                },
+                {
+                    "name": "Mwinilunga",
+                    "districts": [
+                        "Mufumbwe",
+                        "Kabompo",
+                        "Mwinilunga",
+                        "Mwinilunga East",
+                        "Mwinilunga West"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Northern",
+            "cities": [
+                {
+                    "name": "Kasama",
+                    "districts": [
+                        "Chambeshi",
+                        "Chibwe",
+                        "Kasama",
+                        "Kasama North",
+                        "Kasama South"
+                    ]
+                },
+                {
+                    "name": "Mpika",
+                    "districts": [
+                        "Chilonga",
+                        "Kambwili",
+                        "Mpika",
+                        "Mpika North",
+                        "Mpika South"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Southern",
+            "cities": [
+                {
+                    "name": "Choma",
+                    "districts": [
+                        "Chikanta",
+                        "Mapanza",
+                        "Choma",
+                        "Choma North",
+                        "Choma South"
+                    ]
+                },
+                {
+                    "name": "Livingstone",
+                    "districts": [
+                        "Chitokoloki",
+                        "Dambwa",
+                        "Livingstone",
+                        "Livingstone North",
+                        "Livingstone South"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Western",
+            "cities": [
+                {
+                    "name": "Mongu",
+                    "districts": [
+                        "Limbwa",
+                        "Mulambwa",
+                        "Mongu",
+                        "Mongu East",
+                        "Mongu West"
+                    ]
+                },
+                {
+                    "name": "Kaoma",
+                    "districts": [
+                        "Mapoloto",
+                        "Ngabwe",
+                        "Kaoma",
+                        "Kaoma North",
+                        "Kaoma South"
+                    ]
+                }
+            ]
+        }
+    ]
+}
